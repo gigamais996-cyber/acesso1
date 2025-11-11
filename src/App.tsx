@@ -1,7 +1,7 @@
 import { MessageCircle, Wifi, Zap, Phone } from 'lucide-react';
 
 function App() {
-  const whatsappUrl = 'https://wa.me/5511961226067?text=Atendimento';
+  const whatsappUrl = 'https://wa.me/5511946697651?text=Atendimento';
 
   const handleContact = () => {
     window.open(whatsappUrl, '_blank');
